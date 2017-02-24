@@ -1,0 +1,14 @@
+K pridavaniu dropov z blokov si staci Forknut moj respozitar do svojho uctu a do predpripraveneho suboru budes pisat:
+
+napr.:
+=====DROP=====
+Item: Iron chestplate
+#Nazov: (SEDA) Zelezne brnenie
+#Lore: (ZLTA) Mas stastie 
+##Enchant: Prot 1
+==============
+
+# = Nepovinne
+## = Nemalo byt
+
+'#' sa pise: Alt gr + X 
